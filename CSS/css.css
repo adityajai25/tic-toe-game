@@ -1,0 +1,43 @@
+body{
+  background-color: #B0E0E6;
+}
+h1{
+  border: 1px solid black;
+}
+#first{
+  background-color: #FFFCA5;
+}
+h2{
+  color: purple;
+}
+.id1{
+  border-top: 1px solid purple;
+  border-top-width: 2px;
+  width: 125px;
+}
+a{
+  color:blue;
+}
+#textarea{
+  border: 5px solid gray;
+}
+email{
+  border: 1px solid purple;
+}
+#end{
+  background-color: #FFFCA5;
+}
+.end{
+  border: 4px yellow;
+  border-style:dashed;
+  background-color: blue;
+}
+.mailbox{
+  border: 2px solid brown;
+}
+.pass{
+  border: 2px solid brown;
+}
+.log{
+  border: 2px solid brown;
+}
