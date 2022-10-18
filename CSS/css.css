@@ -43,3 +43,8 @@ email{
 a:hover{
   color: red;
 }
+#lorem{
+  font-family: 'Fuzzy Bubbles', cursive;
+  background-color: black;
+  color:white;
+}
