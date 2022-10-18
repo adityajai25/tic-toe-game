@@ -1,0 +1,40 @@
+td{
+  height: 200px;
+  width: 100px;
+  background-color: red;
+  border:4px solid white;
+}
+#second{
+  background-color: blue;
+}
+#third{
+  background-color: purple;
+}
+#fourth{
+  background-color: yellow;
+}
+#fifth{
+  background-color: indigo;
+}
+h2{
+  text-align: center;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+table{
+  margin: auto;
+}
+#first:hover{
+  background-color: #006ba6;
+}
+#second:hover{
+  background-color: #0496ff;
+}
+#third:hover{
+  background-color: #ffbc42;
+}
+#fourth:hover{
+  background-color:#d81159;
+}
+#fifth:hover{
+  background-color:#8f2d56;
+}
