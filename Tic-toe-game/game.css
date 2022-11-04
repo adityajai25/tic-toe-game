@@ -3,7 +3,8 @@ h1{
   font-size: 60px;
 }
 tr,td{
-  border: 3px solid black;
-  height: 120px;
-  width: 120px;
+  border: 5px solid black;
+  height: 155px;
+  width : 155px;
+  text-align: center;
 }
