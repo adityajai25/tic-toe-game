@@ -1,4 +1,4 @@
-var one = document.querySelector('#one')
+Avar one = document.querySelector('#one')
 var two = document.querySelector("#two")
 var three = document.querySelector("#three")
 
